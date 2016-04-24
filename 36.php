@@ -14,6 +14,6 @@ echo '<br>';
 $x = rand(1,9999999);
 
 
-echo ($x xor 2);
+echo ($x xor 2) ;
 
 
